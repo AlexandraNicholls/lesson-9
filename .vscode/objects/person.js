@@ -1,3 +1,5 @@
+//app.ts uses typescript, so we get CODE HINTING!!!
+//tsc app.ts in command line makes app.js
 //this is a namespace, surrounding all things
 var objects;
 (function (objects) {
