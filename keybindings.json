@@ -1,0 +1,7 @@
+//place key bindings in this file to overwrite defaults
+[
+	{
+		"key":"ctrl+s",
+		"command":"workbench.action.tasks.build"
+	}
+]

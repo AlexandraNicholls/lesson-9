@@ -1,0 +1,9 @@
+//use ctrl+space, enter
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"module": "commonjs", 
+		//adds hinting in the browser! type map, third option
+		"sourceMap": true
+	}
+}
